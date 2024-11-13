@@ -15,10 +15,10 @@ function App() {
           <div className="options">
             <label>
               <input type="checkbox" /> Lembrar Senha
-            </label>
-            <a href="/">Esqueci a Senha?</a>
+            </label>            
           </div>
-          <button type="submit">LOGIN</button>
+          <button type="submit">Login</button>
+          <a href="/">Esqueci a Senha?</a>
         </form>
       </div>
     </div>
